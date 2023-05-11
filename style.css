@@ -1,0 +1,22 @@
+﻿body{
+    font-family: 'Montserrat';font-size: 22px;
+	font-size: 2vw;
+}
+
+.block{
+	margin:50px;
+	margin-top:150px;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	flex-direction: column;
+}
+
+.block img{
+	width:150px;
+}
+
+.block a {
+	color:blue;
+	font-weight: bolder;
+}
